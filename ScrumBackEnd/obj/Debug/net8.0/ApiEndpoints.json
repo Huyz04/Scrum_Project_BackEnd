@@ -1,5 +1,236 @@
 [
   {
+    "ContainingType": "ScrumBackEnd.Controllers.CampaignController",
+    "Method": "GetAll",
+    "RelativePath": "api/Campaign",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[ScrumBackEnd.Model.Campaign, ScrumBackEnd, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ScrumBackEnd.Controllers.CampaignController",
+    "Method": "CreateCampaign",
+    "RelativePath": "api/Campaign",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createDto",
+        "Type": "ScrumBackEnd.Dto.CreateCampaign",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ScrumBackEnd.Controllers.CampaignController",
+    "Method": "ApproveCampaign",
+    "RelativePath": "api/Campaign/ApproveCampaign",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ScrumBackEnd.Controllers.CampaignController",
+    "Method": "GetCampaignWaiting",
+    "RelativePath": "api/Campaign/Campaign{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      },
+      {
+        "Name": "id",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ScrumBackEnd.Model.Campaign",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ScrumBackEnd.Controllers.CampaignController",
+    "Method": "GetCampaignOnGoing",
+    "RelativePath": "api/Campaign/CampaignOnGoing",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[ScrumBackEnd.Model.Campaign, ScrumBackEnd, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ScrumBackEnd.Controllers.CampaignController",
+    "Method": "GetCampaignWaiting",
+    "RelativePath": "api/Campaign/CampaignWaiting",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[ScrumBackEnd.Model.Campaign, ScrumBackEnd, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ScrumBackEnd.Controllers.RegisterController",
+    "Method": "GetAll",
+    "RelativePath": "api/Register",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[ScrumBackEnd.Dto.RegisterDto, ScrumBackEnd, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ScrumBackEnd.Controllers.RegisterController",
+    "Method": "ApproveRegister",
+    "RelativePath": "api/Register/ApproveRegister",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "mssv",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ScrumBackEnd.Controllers.RegisterController",
+    "Method": "GetRegisterAccept",
+    "RelativePath": "api/Register/GetRegisterAccept",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[ScrumBackEnd.Dto.RegisterDto, ScrumBackEnd, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ScrumBackEnd.Controllers.RegisterController",
+    "Method": "GetRegisterAwait",
+    "RelativePath": "api/Register/GetRegisterAwait",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[ScrumBackEnd.Dto.RegisterDto, ScrumBackEnd, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ScrumBackEnd.Controllers.RegisterController",
+    "Method": "RegisterCampaign",
+    "RelativePath": "api/Register/RegisterCampaign",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "ScrumBackEnd.Dto.RegisterCampaignDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ScrumBackEnd.Controllers.RegisterController",
+    "Method": "RejectRegister",
+    "RelativePath": "api/Register/RejectRegister",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "mssv",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "ScrumBackEnd.Controllers.UserController",
     "Method": "Get",
     "RelativePath": "api/User",

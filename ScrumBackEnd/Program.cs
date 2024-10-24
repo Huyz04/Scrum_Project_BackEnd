@@ -33,7 +33,9 @@ namespace ScrumBackEnd
                 app.UseSwagger();
                 app.UseSwaggerUI();
             }
-
+            
+            app.UseCors(options => options.WithOrigins("http://127.0.0.1:5501").AllowAnyMethod()
+            .AllowAnyHeader());
             app.UseHttpsRedirection();
 
             app.UseAuthorization();

@@ -6,8 +6,8 @@ namespace ScrumBackEnd.Model
     [Table("Userr")]
     public class Userr
     {
-        public Guid Id { get; set; }
-        public string UserName { get; set; }
+        [Key]
+        public string UserName { get; set; } 
         public string Password { get; set; } = "1";
         public string Name { get; set; }
         public DateTime Birthday { get; set; }

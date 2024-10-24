@@ -3,8 +3,48 @@
   "WorkspaceRootPath": "C:\\HUY\\DAIHOC\\SCRUM\\BackEnd\\ScrumBackEnd\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CB997AF3-F362-4618-8481-452279403CC4}|ScrumBackEnd.csproj|c:\\huy\\daihoc\\scrum\\backend\\scrumbackend\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB997AF3-F362-4618-8481-452279403CC4}|ScrumBackEnd.csproj|solutionrelative:controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB997AF3-F362-4618-8481-452279403CC4}|ScrumBackEnd.csproj|c:\\huy\\daihoc\\scrum\\backend\\scrumbackend\\controllers\\campaigncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB997AF3-F362-4618-8481-452279403CC4}|ScrumBackEnd.csproj|solutionrelative:controllers\\campaigncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB997AF3-F362-4618-8481-452279403CC4}|ScrumBackEnd.csproj|c:\\huy\\daihoc\\scrum\\backend\\scrumbackend\\dto\\registercampaigndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB997AF3-F362-4618-8481-452279403CC4}|ScrumBackEnd.csproj|solutionrelative:dto\\registercampaigndto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB997AF3-F362-4618-8481-452279403CC4}|ScrumBackEnd.csproj|c:\\huy\\daihoc\\scrum\\backend\\scrumbackend\\model\\campaigncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB997AF3-F362-4618-8481-452279403CC4}|ScrumBackEnd.csproj|solutionrelative:model\\campaigncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB997AF3-F362-4618-8481-452279403CC4}|ScrumBackEnd.csproj|c:\\huy\\daihoc\\scrum\\backend\\scrumbackend\\dto\\createcampaign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB997AF3-F362-4618-8481-452279403CC4}|ScrumBackEnd.csproj|solutionrelative:dto\\createcampaign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB997AF3-F362-4618-8481-452279403CC4}|ScrumBackEnd.csproj|c:\\huy\\daihoc\\scrum\\backend\\scrumbackend\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB997AF3-F362-4618-8481-452279403CC4}|ScrumBackEnd.csproj|solutionrelative:dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB997AF3-F362-4618-8481-452279403CC4}|ScrumBackEnd.csproj|c:\\huy\\daihoc\\scrum\\backend\\scrumbackend\\model\\registercampain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB997AF3-F362-4618-8481-452279403CC4}|ScrumBackEnd.csproj|solutionrelative:model\\registercampain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB997AF3-F362-4618-8481-452279403CC4}|ScrumBackEnd.csproj|c:\\huy\\daihoc\\scrum\\backend\\scrumbackend\\model\\campaign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB997AF3-F362-4618-8481-452279403CC4}|ScrumBackEnd.csproj|solutionrelative:model\\campaign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB997AF3-F362-4618-8481-452279403CC4}|ScrumBackEnd.csproj|c:\\huy\\daihoc\\scrum\\backend\\scrumbackend\\model\\userr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB997AF3-F362-4618-8481-452279403CC4}|ScrumBackEnd.csproj|solutionrelative:model\\userr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CB997AF3-F362-4618-8481-452279403CC4}|ScrumBackEnd.csproj|c:\\huy\\daihoc\\scrum\\backend\\scrumbackend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB997AF3-F362-4618-8481-452279403CC4}|ScrumBackEnd.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB997AF3-F362-4618-8481-452279403CC4}|ScrumBackEnd.csproj|c:\\huy\\daihoc\\scrum\\backend\\scrumbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB997AF3-F362-4618-8481-452279403CC4}|ScrumBackEnd.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CB997AF3-F362-4618-8481-452279403CC4}|ScrumBackEnd.csproj|c:\\huy\\daihoc\\scrum\\backend\\scrumbackend\\dto\\loginrespone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,26 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CB997AF3-F362-4618-8481-452279403CC4}|ScrumBackEnd.csproj|c:\\huy\\daihoc\\scrum\\backend\\scrumbackend\\dto\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB997AF3-F362-4618-8481-452279403CC4}|ScrumBackEnd.csproj|solutionrelative:dto\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB997AF3-F362-4618-8481-452279403CC4}|ScrumBackEnd.csproj|c:\\huy\\daihoc\\scrum\\backend\\scrumbackend\\model\\userr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB997AF3-F362-4618-8481-452279403CC4}|ScrumBackEnd.csproj|solutionrelative:model\\userr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB997AF3-F362-4618-8481-452279403CC4}|ScrumBackEnd.csproj|c:\\huy\\daihoc\\scrum\\backend\\scrumbackend\\model\\campaign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB997AF3-F362-4618-8481-452279403CC4}|ScrumBackEnd.csproj|solutionrelative:model\\campaign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB997AF3-F362-4618-8481-452279403CC4}|ScrumBackEnd.csproj|c:\\huy\\daihoc\\scrum\\backend\\scrumbackend\\model\\campaigncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB997AF3-F362-4618-8481-452279403CC4}|ScrumBackEnd.csproj|solutionrelative:model\\campaigncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB997AF3-F362-4618-8481-452279403CC4}|ScrumBackEnd.csproj|c:\\huy\\daihoc\\scrum\\backend\\scrumbackend\\model\\registercampain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB997AF3-F362-4618-8481-452279403CC4}|ScrumBackEnd.csproj|solutionrelative:model\\registercampain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB997AF3-F362-4618-8481-452279403CC4}|ScrumBackEnd.csproj|c:\\huy\\daihoc\\scrum\\backend\\scrumbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB997AF3-F362-4618-8481-452279403CC4}|ScrumBackEnd.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CB997AF3-F362-4618-8481-452279403CC4}|ScrumBackEnd.csproj|c:\\huy\\daihoc\\scrum\\backend\\scrumbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -49,8 +69,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 398,
-          "SelectedChildIndex": 5,
+          "DockedWidth": 526,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,7 +86,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "RegisterCampaignDto.cs",
+              "DocumentMoniker": "C:\\HUY\\DAIHOC\\SCRUM\\BackEnd\\ScrumBackEnd\\Dto\\RegisterCampaignDto.cs",
+              "RelativeDocumentMoniker": "Dto\\RegisterCampaignDto.cs",
+              "ToolTip": "C:\\HUY\\DAIHOC\\SCRUM\\BackEnd\\ScrumBackEnd\\Dto\\RegisterCampaignDto.cs",
+              "RelativeToolTip": "Dto\\RegisterCampaignDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T01:39:04.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "C:\\HUY\\DAIHOC\\SCRUM\\BackEnd\\ScrumBackEnd\\Controllers\\RegisterController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RegisterController.cs",
+              "ToolTip": "C:\\HUY\\DAIHOC\\SCRUM\\BackEnd\\ScrumBackEnd\\Controllers\\RegisterController.cs",
+              "RelativeToolTip": "Controllers\\RegisterController.cs",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAcwKsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T22:27:37.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateCampaign.cs",
+              "DocumentMoniker": "C:\\HUY\\DAIHOC\\SCRUM\\BackEnd\\ScrumBackEnd\\Dto\\CreateCampaign.cs",
+              "RelativeDocumentMoniker": "Dto\\CreateCampaign.cs",
+              "ToolTip": "C:\\HUY\\DAIHOC\\SCRUM\\BackEnd\\ScrumBackEnd\\Dto\\CreateCampaign.cs",
+              "RelativeToolTip": "Dto\\CreateCampaign.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T19:38:34.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "LoginRespone.cs",
               "DocumentMoniker": "C:\\HUY\\DAIHOC\\SCRUM\\BackEnd\\ScrumBackEnd\\Dto\\LoginRespone.cs",
               "RelativeDocumentMoniker": "Dto\\LoginRespone.cs",
@@ -74,12 +132,11 @@
               "RelativeToolTip": "Dto\\LoginRespone.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T07:08:10.837Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-23T07:08:10.837Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 12,
               "Title": "Login.cs",
               "DocumentMoniker": "C:\\HUY\\DAIHOC\\SCRUM\\BackEnd\\ScrumBackEnd\\Dto\\Login.cs",
               "RelativeDocumentMoniker": "Dto\\Login.cs",
@@ -87,60 +144,102 @@
               "RelativeToolTip": "Dto\\Login.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T06:47:48.351Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-23T06:47:48.351Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\HUY\\DAIHOC\\SCRUM\\BackEnd\\ScrumBackEnd\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
-              "ToolTip": "C:\\HUY\\DAIHOC\\SCRUM\\BackEnd\\ScrumBackEnd\\Controllers\\UserController.cs",
-              "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAAwFUAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T06:22:27.092Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\HUY\\DAIHOC\\SCRUM\\BackEnd\\ScrumBackEnd\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\HUY\\DAIHOC\\SCRUM\\BackEnd\\ScrumBackEnd\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCgAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T06:20:26.71Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-23T06:20:26.71Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "CampaignContext.cs",
               "DocumentMoniker": "C:\\HUY\\DAIHOC\\SCRUM\\BackEnd\\ScrumBackEnd\\Model\\CampaignContext.cs",
               "RelativeDocumentMoniker": "Model\\CampaignContext.cs",
               "ToolTip": "C:\\HUY\\DAIHOC\\SCRUM\\BackEnd\\ScrumBackEnd\\Model\\CampaignContext.cs",
               "RelativeToolTip": "Model\\CampaignContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-23T04:05:20.655Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Campaign.cs",
-              "DocumentMoniker": "C:\\HUY\\DAIHOC\\SCRUM\\BackEnd\\ScrumBackEnd\\Model\\Campaign.cs",
-              "RelativeDocumentMoniker": "Model\\Campaign.cs",
-              "ToolTip": "C:\\HUY\\DAIHOC\\SCRUM\\BackEnd\\ScrumBackEnd\\Model\\Campaign.cs",
-              "RelativeToolTip": "Model\\Campaign.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "Userr.cs",
+              "DocumentMoniker": "C:\\HUY\\DAIHOC\\SCRUM\\BackEnd\\ScrumBackEnd\\Model\\Userr.cs",
+              "RelativeDocumentMoniker": "Model\\Userr.cs",
+              "ToolTip": "C:\\HUY\\DAIHOC\\SCRUM\\BackEnd\\ScrumBackEnd\\Model\\Userr.cs",
+              "RelativeToolTip": "Model\\Userr.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T04:03:00.724Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-23T03:55:03.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ScrumBackEnd.csproj",
+              "DocumentMoniker": "C:\\HUY\\DAIHOC\\SCRUM\\BackEnd\\ScrumBackEnd\\ScrumBackEnd.csproj",
+              "RelativeDocumentMoniker": "ScrumBackEnd.csproj",
+              "ToolTip": "C:\\HUY\\DAIHOC\\SCRUM\\BackEnd\\ScrumBackEnd\\ScrumBackEnd.csproj",
+              "RelativeToolTip": "ScrumBackEnd.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-23T03:54:01.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\HUY\\DAIHOC\\SCRUM\\BackEnd\\ScrumBackEnd\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\HUY\\DAIHOC\\SCRUM\\BackEnd\\ScrumBackEnd\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-23T02:30:48.59Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 270,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\HUY\\DAIHOC\\SCRUM\\BackEnd\\ScrumBackEnd\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\HUY\\DAIHOC\\SCRUM\\BackEnd\\ScrumBackEnd\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAmwEUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T06:22:27.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\HUY\\DAIHOC\\SCRUM\\BackEnd\\ScrumBackEnd\\Dto\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Dto\\RegisterDto.cs",
+              "ToolTip": "C:\\HUY\\DAIHOC\\SCRUM\\BackEnd\\ScrumBackEnd\\Dto\\RegisterDto.cs",
+              "RelativeToolTip": "Dto\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T00:13:09.128Z"
             },
             {
               "$type": "Document",
@@ -150,59 +249,34 @@
               "RelativeDocumentMoniker": "Model\\RegisterCampain.cs",
               "ToolTip": "C:\\HUY\\DAIHOC\\SCRUM\\BackEnd\\ScrumBackEnd\\Model\\RegisterCampain.cs",
               "RelativeToolTip": "Model\\RegisterCampain.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T04:00:52.945Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-23T04:00:52.945Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Userr.cs",
-              "DocumentMoniker": "C:\\HUY\\DAIHOC\\SCRUM\\BackEnd\\ScrumBackEnd\\Model\\Userr.cs",
-              "RelativeDocumentMoniker": "Model\\Userr.cs",
-              "ToolTip": "C:\\HUY\\DAIHOC\\SCRUM\\BackEnd\\ScrumBackEnd\\Model\\Userr.cs",
-              "RelativeToolTip": "Model\\Userr.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAsAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "Campaign.cs",
+              "DocumentMoniker": "C:\\HUY\\DAIHOC\\SCRUM\\BackEnd\\ScrumBackEnd\\Model\\Campaign.cs",
+              "RelativeDocumentMoniker": "Model\\Campaign.cs",
+              "ToolTip": "C:\\HUY\\DAIHOC\\SCRUM\\BackEnd\\ScrumBackEnd\\Model\\Campaign.cs",
+              "RelativeToolTip": "Model\\Campaign.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-23T03:55:03.3Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-23T04:03:00.724Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ScrumBackEnd.csproj",
-              "DocumentMoniker": "C:\\HUY\\DAIHOC\\SCRUM\\BackEnd\\ScrumBackEnd\\ScrumBackEnd.csproj",
-              "RelativeDocumentMoniker": "ScrumBackEnd.csproj",
-              "ToolTip": "C:\\HUY\\DAIHOC\\SCRUM\\BackEnd\\ScrumBackEnd\\ScrumBackEnd.csproj",
-              "RelativeToolTip": "ScrumBackEnd.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABRAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-23T03:54:01.306Z",
+              "DocumentIndex": 1,
+              "Title": "CampaignController.cs",
+              "DocumentMoniker": "C:\\HUY\\DAIHOC\\SCRUM\\BackEnd\\ScrumBackEnd\\Controllers\\CampaignController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CampaignController.cs",
+              "ToolTip": "C:\\HUY\\DAIHOC\\SCRUM\\BackEnd\\ScrumBackEnd\\Controllers\\CampaignController.cs",
+              "RelativeToolTip": "Controllers\\CampaignController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAmwE0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T07:40:21.705Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\HUY\\DAIHOC\\SCRUM\\BackEnd\\ScrumBackEnd\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\HUY\\DAIHOC\\SCRUM\\BackEnd\\ScrumBackEnd\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-23T02:30:48.59Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 212,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             }
           ]
         }
